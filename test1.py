@@ -4,3 +4,4 @@ j = 0
 while j < 10:
   print(i+j)
 print('python is good!')
+print('I love Zrush')
